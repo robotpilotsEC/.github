@@ -7,11 +7,8 @@
 
 <img align="left" src="https://github.com/rp2023EC/.github/blob/main/profile/src/header.png" />
    
-####  一些注意事项: 
--建立仓库主要按个人的方式，不以兵种，一人只能有一个仓库
--仓库命名：仓库建立的赛季年份_名字缩写
 
-# Important Notices <!-- omit in toc -->
+### Important Notices <!-- omit in toc -->
 
 > [!IMPORTANT]\
 > 建立仓库主要按个人的方式，不以兵种，一人只能有一个仓库
