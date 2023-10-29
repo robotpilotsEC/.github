@@ -15,7 +15,7 @@
 #
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ZhongFuCheng3y&show_icons=true&icon_color=CE1D2D&theme=radical" />
+  <img align="left" src="https://github.com/rp2023EC/.github/blob/main/profile/src/header.png" />
  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -33,4 +33,3 @@
 #
 
 
-![HEADER](https://github.com/rp2023EC/.github/blob/main/profile/src/header.png)
