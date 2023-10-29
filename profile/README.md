@@ -2,7 +2,7 @@
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SZURPVision)
-[![SameGithub](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/SZURPVision)
+[![SameGithub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/robotpilotsEC)
 [![Outlook](https://img.shields.io/badge/-Outlook-c14438?style=flat&logo=Gmail&logoColor=white)](shergrove@outlook.com)
 
 <img align="left" src="https://github.com/rp2023EC/.github/blob/main/profile/src/header.png" />
