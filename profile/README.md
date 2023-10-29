@@ -15,8 +15,6 @@
 #
 
 <p>
-  <img align="left" src="https://github.com/rp2023EC/.github/blob/main/profile/src/header.png" />
- 
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
@@ -31,5 +29,5 @@
 </p>
 
 #
-
+  <img align="left" src="https://github.com/rp2023EC/.github/blob/main/profile/src/header.png" />
 
