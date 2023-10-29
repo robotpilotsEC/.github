@@ -7,7 +7,7 @@
 *更多请关注RobotPlitos公众号或者弹幕网*
 
 #
-#### 🥇一些用来填充画面的，没找到C++是LZS的错:
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ZhongFuCheng3y&show_icons=true&icon_color=CE1D2D&theme=radical" />
  
